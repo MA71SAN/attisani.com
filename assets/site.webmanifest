@@ -1,0 +1,14 @@
+{
+    "name": "Michele Attisani",
+    "short_name": "MA",
+    "icons": [
+        {
+            "src": "/assets/favicon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml"
+        }
+    ],
+    "theme_color": "#ed8158",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}
